@@ -4,26 +4,26 @@
 
 ## About Me
 
-Data Analytics & Business Intelligence
-Machine Learning & Artificial Intelligence
-Natural Language Processing (NLP)
-Large Language Models (LLMs)
-Python Development
-Cloud Technologies (Azure & GCP)
+- Data Analytics & Business Intelligence
+- Machine Learning & Artificial Intelligence
+- Natural Language Processing (NLP)
+- Large Language Models (LLMs)
+- Python Development
+- Cloud Technologies (Azure & GCP)
 
 ## Technical Skills
 
-Python | SQL | Pandas | NumPy | Matplotlib | Azure | GCP | Kubernetes | Terraform
+Python | SQL | Pandas | NumPy | Matplotlib | Azure | GCP | Kubernetes | Terraform | NLP | LLMs | Data Analytics
 
 ## Featured Projects
 
 ### Disease Prediction using LLMs
-Applied NLP, RAG and BioMistral-7B to build an AI-powered disease prediction system.
+Built an AI-powered disease prediction system using BioMistral-7B, NLP, RAG, and vector databases.
 
 ### Sales Data Analytics
-Performed data cleaning, EDA, feature engineering and business analytics using Python.
+Performed data cleaning, exploratory data analysis, feature engineering, and visualization on 1000+ sales records using Python.
 
 ### Smart Mobility Mathematical Modelling
-Applied Linear Algebra, Calculus, Probability and Statistics to traffic system analysis.
+Applied Linear Algebra, Calculus, Probability, and Statistics to analyze urban traffic systems and mobility data.
 
 📫 Contact: vanessatojan99@gmail.com
