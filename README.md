@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Vanessa Tojan 👋
 
-<!--
-**VanessaTojan/VanessaTojan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Data Science Student at Arden University Berlin
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Data Science & Analytics
+- Machine Learning
+- NLP & Large Language Models
+- Python Development
+- Cloud Technologies (Azure & GCP)
+
+## Technical Skills
+
+Python | SQL | Pandas | NumPy | Matplotlib | Azure | GCP | Kubernetes | Terraform
+
+## Featured Projects
+
+### Disease Prediction using LLMs
+Applied NLP, RAG and BioMistral-7B to build an AI-powered disease prediction system.
+
+### Sales Data Analytics
+Performed data cleaning, EDA, feature engineering and business analytics using Python.
+
+### Smart Mobility Mathematical Modelling
+Applied Linear Algebra, Calculus, Probability and Statistics to traffic system analysis.
+
+📫 Contact: vanessatojan99@gmail.com
