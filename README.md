@@ -4,11 +4,12 @@
 
 ## About Me
 
-- Data Science & Analytics
-- Machine Learning
-- NLP & Large Language Models
-- Python Development
-- Cloud Technologies (Azure & GCP)
+Data Analytics & Business Intelligence
+Machine Learning & Artificial Intelligence
+Natural Language Processing (NLP)
+Large Language Models (LLMs)
+Python Development
+Cloud Technologies (Azure & GCP)
 
 ## Technical Skills
 
